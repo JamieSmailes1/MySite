@@ -1,0 +1,5 @@
+.hero{
+  background: radial-gradient(1200px 600px at 10% 10%, rgba(13,110,253,.12), transparent 60%),
+              radial-gradient(1000px 500px at 90% 20%, rgba(32,201,151,.12), transparent 60%);
+}
+.project-card:hover { transform: translateY(-2px); transition: transform .2s ease; }
